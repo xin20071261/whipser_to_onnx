@@ -1,0 +1,12 @@
+numba
+numpy
+torch
+tqdm
+transformers
+scikit-learn
+jiwer
+pytorch-lightning==1.5.0
+evaluate 
+path
+more-itertools
+tiktoken==0.3.3
